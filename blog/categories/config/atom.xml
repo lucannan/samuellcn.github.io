@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[LuCanNan Blog]]></title>
-  <link href="http://samuellcn.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Config | LuCanNan Blog]]></title>
+  <link href="http://samuellcn.github.io/blog/categories/config/atom.xml" rel="self"/>
   <link href="http://samuellcn.github.io/"/>
   <updated>2015-09-27T16:13:47+08:00</updated>
   <id>http://samuellcn.github.io/</id>
@@ -87,7 +87,7 @@
 
 <blockquote><pre><code>1) rake new_page['aboutme'] 生成页面
 2) 在/source/_include/custom/navigation.html中加入
-    &lt;li&gt;&lt;a href="http://samuellcn.github.io/aboutme"&gt;aboutme&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/aboutme"&gt;aboutme&lt;/a&gt;&lt;/li&gt;
 </code></pre></blockquote>
 
 <h2>9:安装自定义主题</h2>
